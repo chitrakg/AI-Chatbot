@@ -1,0 +1,5 @@
+langchain>=0.0.262
+llama-cpp-python>=0.1.86
+sentence-transformers>=2.2.2
+chromadb>=0.4.3
+python-dotenv>=1.0.0
