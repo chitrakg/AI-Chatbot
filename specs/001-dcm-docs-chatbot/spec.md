@@ -4,6 +4,8 @@
 
 **Created**: 2026-09-27
 
+**Version**: 1.0.0
+
 **Status**: Draft
 
 **Input**: User description: "Create a chatbot for DCM documentation using a local LLM integration"
